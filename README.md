@@ -1,4 +1,4 @@
-Minha pagina com algumas informações minhas.
+Minha página com algumas informações minhas.
 
 Tecnologias utilizadas:
 
